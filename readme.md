@@ -6,4 +6,4 @@
 
 通过这样的封装和拆封过程，我们的协议栈能够确保数据在不同网络层次间正确、高效地传输，实现网络通信的目标。
 
-![image-20250830223704068](C:\Users\pj\AppData\Roaming\Typora\typora-user-images\image-20250830223704068.png)
+![image-20250830224051737](D:\B\学习资料\已结课\计算机网络\实验\net-lab\assets\image-20250830224051737.png)
