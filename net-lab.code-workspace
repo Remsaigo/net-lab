@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.generator": "MinGW Makefiles",
+		"files.associations": {
+			"ethernet.h": "c",
+			"ip.h": "c",
+			"arp.h": "c",
+			"icmp.h": "c",
+			"net.h": "c",
+			"stdio.h": "c",
+			"utils.h": "c",
+			"buf.h": "c",
+			"stdlib.h": "c",
+			"string.h": "c",
+			"udp.h": "c"
+		},
+	}
+}
